@@ -1,4 +1,6 @@
+*.pdf
 */data/
+*/*/data/
 Module 1/stopwords/
 Module 1/.ipynb_checkpoints/
 Module 1/hw/stopwords/
