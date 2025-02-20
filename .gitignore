@@ -1,4 +1,5 @@
 *.pdf
+*.pt
 */data/
 */*/data/
 Module 1/stopwords/
