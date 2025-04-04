@@ -4,6 +4,7 @@
 */*/data/
 */*/.ipynb_checkpoints/
 */.ipynb_checkpoints/
+temp/
 Module 1/stopwords/
 Module 1/.ipynb_checkpoints/
 Module 1/hw/stopwords/
@@ -13,3 +14,5 @@ Module 1/SO_vectors_200.bin
 Module 1/*/SO_vectors_200.bin
 Module 1/stackoverflow_similar_questions.zip
 Module 2/hw/refs/
+Module 5/model_v0/
+Module 5/runs/
