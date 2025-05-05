@@ -4,6 +4,7 @@
 */*/data/
 */*/.ipynb_checkpoints/
 */.ipynb_checkpoints/
+*/__pycache__/
 temp/
 Module 1/stopwords/
 Module 1/.ipynb_checkpoints/
